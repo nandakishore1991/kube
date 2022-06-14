@@ -3,5 +3,4 @@ data:
   pass: redhat@123
 kind: ConfigMap
 metadata:
-  creationTimestamp: null
   name: conf1
